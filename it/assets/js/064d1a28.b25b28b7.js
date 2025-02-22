@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[93581],{30143:e=>{e.exports=JSON.parse('{"tag":{"label":"api","permalink":"/it/docs/tags/api","allTagsPath":"/it/docs/tags","count":1,"items":[{"id":"reference/index","title":"Api Reference","description":"A List of collection","permalink":"/it/docs/reference/api-root"}],"unlisted":false}}')}}]);

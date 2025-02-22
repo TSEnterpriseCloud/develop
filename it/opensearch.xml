@@ -4,8 +4,8 @@
   <ShortName>Enterprise Cloud \ Devs: API &amp; SDKs </ShortName>
   <Description>Search Enterprise Cloud \ Devs: API &amp; SDKs </Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://tsenterprisecloud.github.io/develop/it/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://tsenterprisecloud.github.io/develop/it/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://tsenterprisecloud.github.io/develop/it/opensearch.xml" />
-  <moz:SearchForm>https://tsenterprisecloud.github.io/develop/it/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://tse.docs.teamsystem.cloud/it/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://tse.docs.teamsystem.cloud/it/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://tse.docs.teamsystem.cloud/it/opensearch.xml" />
+  <moz:SearchForm>https://tse.docs.teamsystem.cloud/it/</moz:SearchForm>
 </OpenSearchDescription>
