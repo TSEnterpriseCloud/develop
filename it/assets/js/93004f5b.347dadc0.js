@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[94372],{72783:s=>{s.exports=JSON.parse('{"tag":{"label":"sdk","permalink":"/it/docs/tags/sdk","allTagsPath":"/it/docs/tags","count":1,"items":[{"id":"sdk/assets/index","title":"SDKs Overview","description":"Be smart! Use our SDKs!","permalink":"/it/docs/sdk/assets/"}],"unlisted":false}}')}}]);
