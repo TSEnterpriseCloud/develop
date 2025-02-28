@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[32290],{49231:s=>{s.exports=JSON.parse('{"tag":{"label":"c#","permalink":"/docs/tags/c","allTagsPath":"/docs/tags","count":1,"items":[{"id":"sdk/net-sdk","title":".NET SDK","description":"The official TSE in Cloud .NET SDK","permalink":"/docs/sdk/net-sdk"}],"unlisted":false}}')}}]);
