@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[25142],{85378:s=>{s.exports=JSON.parse('{"tag":{"label":"403","permalink":"/it/docs/tags/403","allTagsPath":"/it/docs/tags","count":1,"items":[{"id":"basics/crud/index","title":"CRUD operation","description":"Crud operation","permalink":"/it/docs/basics/crud/crud"}],"unlisted":false}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[40866],{24586:e=>{e.exports=JSON.parse('{"tag":{"label":"read","permalink":"/docs/tags/read","allTagsPath":"/docs/tags","count":1,"items":[{"id":"basics/crud/read","title":"[R]ead","description":"Read operations","permalink":"/docs/basics/crud/read"}],"unlisted":false}}')}}]);
