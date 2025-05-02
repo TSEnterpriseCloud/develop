@@ -4,8 +4,8 @@
   <ShortName>Enterprise Cloud AI \ Devs: API &amp; SDKs </ShortName>
   <Description>Search Enterprise Cloud AI \ Devs: API &amp; SDKs </Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://tse.docs.teamsystem.cloud/docstage/it/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://tse.docs.teamsystem.cloud/docstage/it/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://tse.docs.teamsystem.cloud/docstage/it/opensearch.xml" />
-  <moz:SearchForm>https://tse.docs.teamsystem.cloud/docstage/it/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://tse.docs.teamsystem.cloud/it/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://tse.docs.teamsystem.cloud/it/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://tse.docs.teamsystem.cloud/it/opensearch.xml" />
+  <moz:SearchForm>https://tse.docs.teamsystem.cloud/it/</moz:SearchForm>
 </OpenSearchDescription>
