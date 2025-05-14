@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktse_dev_api=self.webpackChunktse_dev_api||[]).push([[28685],{27373:s=>{s.exports=JSON.parse('{"tag":{"label":"supporto","permalink":"/docs/tags/supporto","allTagsPath":"/docs/tags","count":1,"items":[{"id":"basics/index","title":"Basic Operations","description":"Basic Operations","permalink":"/docs/basics/"}],"unlisted":false}}')}}]);
